@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Catan Map Generator</string>
+    <string name="button_text">New Random Board</string>
+    <color name="green">#00CC33</color>
+</resources>
